@@ -21,7 +21,7 @@ export class ContactPage {
 
   constructor(public navCtrl: NavController) {}
 
-   calculatedCalories(){
+   calculateCalories(){
 
      if (this.Sex === "m") { 
       this.Calories = (10 * this.Weight + 6.25 * this.Height - 5 * this.Age + 5);
