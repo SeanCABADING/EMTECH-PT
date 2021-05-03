@@ -1,8 +1,8 @@
 ion-content{
-  background: linear-gradient(to left, #c6ffdd, #fbd786, #f7797d);
+  background: linear-gradient(to right, #005723, #000000);
 }
  h5{
-  color:black;
+  color:rgb(240, 240, 240);
   font-family : Helvetica,  sans-serif ;
   text-align: justify;
 }

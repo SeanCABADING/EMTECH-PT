@@ -1,3 +1,20 @@
 ion-content{
-  background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  background: linear-gradient(to right, #008033, #000000);
+}
+ h1{
+  color:rgb(246, 250, 0);
+  font-family : Helvetica Neue Bold ;
+  text-align: justify;
+}
+
+ h3{
+  color:rgb(255, 255, 255);
+  font-family : Helvetica,  sans-serif ;
+  text-align: justify;
+  text-size-adjust: unset;
+}
+b{
+  color:rgb(255, 255, 255);
+  font-family : Helvetica,  sans-serif ;
+  text-align: justify;
 }
